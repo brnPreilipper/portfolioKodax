@@ -500,6 +500,10 @@ span {
     .integrantes-container {
         grid-template-columns: 1fr;
     }
+
+    .integrantes-layer h4 {
+        font-size: 2rem;
+    }
 }
 
 @media (max-width: 450px) {
